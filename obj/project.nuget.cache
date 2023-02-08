@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dUCN/ybH6SaQ/XsD3aipf1Vt8O0uBErjzw1OWCFuCeWaPk2dwEOlZp3JH4zcFxine7OiCmxjD6LjeiYg5PGyrw==",
+  "success": true,
+  "projectFilePath": "C:\\CloudLearn\\WebApplication1\\WebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kamsalis\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.0\\microsoft.visualstudio.azure.containers.tools.targets.1.17.0.nupkg.sha512"
+  ],
+  "logs": []
+}
